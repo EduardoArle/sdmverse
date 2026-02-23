@@ -1,0 +1,35 @@
+name : ScalePredSDM
+title: An R package providing a reproducible workflow for generating, evaluating and applying scale-of-effect (SoE) predictors in fine-scale species distribution models (SDMs).
+version: 0.9.0
+author: Ole Sørensen
+maintainer: Ole Sørensen <ole.johs.sorensen@gmail.com>
+cran: no
+repository: https://github.com/olejohs/ScalePredSDM
+description: "Tools to generate, evaluate and assemble scale-of-effect
+    environmental predictors for fine-scale species distribution models,
+    with an emphasis on high-resolution marine and terrestrial data."
+occ_acquisition: no
+occ_cleaning: no
+data_integration: yes
+env_collinearity: no
+env_process: yes
+bias: no
+study_region: no
+backg_sample: no
+data_partitioning: no
+mod_fit: no
+mod_tuning: no
+mod_ensemble: no
+mod_stack: yes
+mod_evaluate: no
+mod_multispecies: no
+mod_mechanistic: no
+pred_general: no
+pred_extrapolation: no
+pred_inspect: no
+post_processing: no
+gui: no
+metadata: yes
+manuscript_citation: "Sørensen, O. J. R., Pittman, S. J., Van Rijn, I., Arlé, E.,
+Makovsky, Y., Tchernov, D."
+manuscript_doi:
